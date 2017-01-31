@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.triplet.gradle</groupId>
+  <artifactId>play-publisher</artifactId>
+  <versioning>
+    <release>1.2.0-visiolink-dev-2.16.12</release>
+    <versions>
+      <version>1.2.0-beta2</version>
+      <version>1.2.0-visiolink-dev-SNAPSHOT</version>
+      <version>1.2.0-visiolink-dev-2.16.12</version>
+    </versions>
+    <lastUpdated>20170131141540</lastUpdated>
+  </versioning>
+</metadata>
