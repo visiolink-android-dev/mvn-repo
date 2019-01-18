@@ -3,10 +3,10 @@
   <groupId>org.onepf</groupId>
   <artifactId>openiab</artifactId>
   <versioning>
-    <release>0.9.8.7-npe-amazon-getskudetails-2</release>
+    <release>0.9.8.8-npe-amazon-getskudetails-updated</release>
     <versions>
-      <version>0.9.8.7-npe-amazon-getskudetails-2</version>
+      <version>0.9.8.8-npe-amazon-getskudetails-updated</version>
     </versions>
-    <lastUpdated>20190118102554</lastUpdated>
+    <lastUpdated>20190118142554</lastUpdated>
   </versioning>
 </metadata>
